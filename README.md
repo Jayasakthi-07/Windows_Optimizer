@@ -101,64 +101,6 @@ Then run:
 Windows_Optimizer.bat
 ```
 
----
-
-## 📦 Releases & Changelog
-
-### Latest Release: v1.0.0
-**Release Date:** February 8, 2026
-
-#### What's New:
-- ✨ Initial release with comprehensive Windows optimization features
-- 🗑️ Advanced temporary file cleaning system
-- 🔧 Automated Windows system repair utilities
-- ⚡ Ultimate Performance Mode activation
-- 📊 DNS and network optimization
-- 🛡️ Safe UAC-privileged operations
-
-#### Download Options:
-| Version | File | Size | Download |
-|---------|------|------|----------|
-| **v1.0.0** | Windows_Optimizer.bat | ~11 KB | [Download](https://github.com/Jayasakthi-07/Windows_Optimizer/releases/download/v1.0.0/Windows_Optimizer.bat) |
-| **Source Code** | .zip | - | [Download](https://github.com/Jayasakthi-07/Windows_Optimizer/archive/refs/tags/v1.0.0.zip) |
-| **Source Code** | .tar.gz | - | [Download](https://github.com/Jayasakthi-07/Windows_Optimizer/archive/refs/tags/v1.0.0.tar.gz) |
-
-### Version History
-
-#### v1.0.0 - Initial Release
-- Core optimization features
-- System cleaning capabilities
-- Windows image repair tools
-- Performance enhancement settings
-
-### Upcoming Features (v2.0.0)
-- 🎯 GUI Interface
-- 📊 Detailed system analysis and reporting
-- 🔄 Scheduled automated cleaning
-- 📈 Performance metrics tracking
-- 🌐 Multi-language support
-- 🔐 Enhanced system backup before cleaning
-
-### How to Download
-
-**Option 1: GitHub Releases**
-1. Visit [Releases Page](https://github.com/Jayasakthi-07/Windows_Optimizer/releases)
-2. Click on the latest release
-3. Download `Windows_Optimizer.bat`
-4. Run as Administrator
-
-**Option 2: Clone from Repository**
-```bash
-git clone https://github.com/Jayasakthi-07/Windows_Optimizer.git
-cd Windows_Optimizer
-```
-
-### Release Notes & Updates
-
-For detailed release notes, change logs, and update information, visit the [Releases Page](https://github.com/Jayasakthi-07/Windows_Optimizer/releases) on GitHub.
-
----
-
 ## 🎮 Usage
 
 ### Quick Start
